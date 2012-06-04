@@ -1,0 +1,12 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Debug\LU_ATS.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Debug\LU_ATS.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Debug\LU_ATS.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Debug\OpenBveApi.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Debug\OpenBveApi.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\LU_ATS.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\ResGen.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\ResGen.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\LU_ATS.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\LU_ATS.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Debug\LU_ATS.pdb

@@ -1,0 +1,12 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\LU_ATS.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\ResGen.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\ResGen.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Release\LU_ATS.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Release\LU_ATS.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Release\LU_ATS.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Release\OpenBveApi.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\bin\Release\OpenBveApi.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\LU_ATS.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\LU_ATS.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\LU_ATS\LU_ATS\obj\Release\LU_ATS.pdb
