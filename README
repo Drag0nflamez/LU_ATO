@@ -1,1 +1,14 @@
 Hello. You have found my plugin. It's open source, with no apparent license. Do whatever you want to do with it, but credit me. Just a link or something.
+
+This plugin simulates Central Line ATP in a way... Don't think signalling is working, but it has power rail gaps simulated.
+
+ATO can be started with both HOME and END pressed, can be turned off with DELETE.
+It may or may not stop for signals, not sure about that.
+
+Installation:
+Compile it with VS2010+ (or just download the probably outdated binaries), then put LU_ATS.dll into a train folder of your choice, and then change ats.cfg to LU_ATS.dll
+You may need to modify your route to have it support it.
+
+Beacon 35 specifies the speed limit in kilometres per hour.
+Beacon 20 (like in os_ats1.dll) specifies the length of the power rail gap. No modification nessescary if routes already have that simulated.
+Beacon 36 tells the train to slow down before a station.
